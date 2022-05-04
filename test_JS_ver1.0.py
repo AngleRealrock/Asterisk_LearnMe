@@ -135,6 +135,6 @@ ent2.bind("<Return>", login)
 
 #로그인 버튼 왼쪽 클릭하면 로그인
 btn.bind("<Button-1>", login)
-print("heeloh")
+print("heeleeoh")
 btn.pack()
 win.mainloop()
